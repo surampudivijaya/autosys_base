@@ -1,14 +1,14 @@
 {
   "repos":[
     {
-     "repo_url": " ",
-     "user": " ",
-     "password": " "
+     "repo_url": "git@github.com:surampudivijaya/autosys_sampleApp1.git ",
+     "user": "user1 ",
+     "password": "xyz "
     },
     {
-     "repo_url": " ",
-     "user": " ",
-     "password": " ",
+     "repo_url": "git@github.com:surampudivijaya/autosys_sampleApp2.git ",
+     "user": "user2 ",
+     "password": "xyz ",
     
     }
   ]
